@@ -1,0 +1,7 @@
+alias vbp="vim ~/.bash_profile"
+alias sbp="source ~/.bash_profile"
+alias hosts="vim /c/windows/system32/drivers/etc/hosts"
+
+alias py=python
+alias code="code-insiders"
+alias cra="create-react-app"
